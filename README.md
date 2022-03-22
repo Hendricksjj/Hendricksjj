@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hendricksjj
+- 👋 Hi, I’m Jason
 - 👀 I’m interested in Automation
 - 🌱 I’m currently working on Linux, Bash, Python & Powershell
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jason-hendricks-089470231/)
